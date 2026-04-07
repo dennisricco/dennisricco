@@ -327,7 +327,7 @@ skills = {
 <a href="https://my-portofolio-one-beta.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" alt="Portfolio" />
 </a>
-<a href="mailto:dennisricco@gmail.com" target="_blank">
+<a href="mailto:dennisricco041@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/dennisricco" target="_blank">
