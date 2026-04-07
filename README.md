@@ -108,7 +108,7 @@ const dennis: Developer = {
 
 ### 🔥 Streak Stats
 <a href="https://github.com/dennisricco">
-  <img src="https://streak-stats.demolab.com/?user=dennisricco&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B35&currStreakLabel=6AD3F7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dennisricco&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B35&currStreakLabel=6AD3F7&sideLabels=6AD3F7&dates=FFFFFF" alt="GitHub Streak" />
 </a>
 
 </div>
