@@ -108,7 +108,7 @@ const dennis: Developer = {
 
 ### 🔥 Streak Stats
 <a href="https://github.com/dennisricco">
-  <img src="https://streak-stats.demolab.com?user=dennisricco&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B35&currStreakLabel=6AD3F7&sideLabels=6AD3F7&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dennisricco&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B35&currStreakLabel=6AD3F7&sideLabels=6AD3F7&dates=FFFFFF" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -118,7 +118,7 @@ const dennis: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dennisricco&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dennisricco&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -384,6 +384,6 @@ skills = {
   <i>👀 Profile views count: <img src="https://komarev.com/ghpvc/?username=dennisricco&style=flat-square&color=6AD3F7" alt="visitors"/></i>
 </p>
 
-**Made with ❤️ by [Dennis Ricco](https://github.com/dennisricco) • Updated Automatically 🤖**
+**Made with by [Dennis Ricco](https://github.com/dennisricco) • Updated Automatically 🤖**
 
 </div>
