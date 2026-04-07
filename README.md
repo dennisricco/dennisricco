@@ -199,39 +199,110 @@ skills = {
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
+<h3 align="center">🌐 My Portfolio</h3>
+<p align="center">
   <a href="https://github.com/dennisricco/my-portofolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennisricco&repo=my-portofolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7&cache_seconds=86400" alt="My Portfolio" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
+</p>
+<p align="center">Personal portfolio website built with Next.js and modern web technologies</p>
+<p align="center">
+  <a href="https://github.com/dennisricco/my-portofolio">
+    <img src="https://img.shields.io/badge/View_Project-6AD3F7?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://my-portofolio-one-beta.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+  </a>
+</p>
 </td>
-<td width="50%" align="center">
+<td width="50%">
+<h3 align="center">📧 EmailCraft</h3>
+<p align="center">
   <a href="https://github.com/dennisricco/EmailCraft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennisricco&repo=EmailCraft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7&cache_seconds=86400" alt="EmailCraft" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   </a>
+</p>
+<p align="center">Email management system with Laravel backend and modern UI</p>
+<p align="center">
+  <a href="https://github.com/dennisricco/EmailCraft">
+    <img src="https://img.shields.io/badge/View_Project-6AD3F7?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  </a>
+</p>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
+<h3 align="center">💼 Laravel Portfolio</h3>
+<p align="center">
   <a href="https://github.com/dennisricco/Laravel-Portofolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennisricco&repo=Laravel-Portofolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7&cache_seconds=86400" alt="Laravel Portfolio" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
+</p>
+<p align="center">Full-stack portfolio application with Laravel and MySQL database</p>
+<p align="center">
+  <a href="https://github.com/dennisricco/Laravel-Portofolio">
+    <img src="https://img.shields.io/badge/View_Project-6AD3F7?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  </a>
+</p>
 </td>
-<td width="50%" align="center">
+<td width="50%">
+<h3 align="center">🏨 Syariahrooms</h3>
+<p align="center">
   <a href="https://github.com/dennisricco/Syariahrooms">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennisricco&repo=Syariahrooms&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7&cache_seconds=86400" alt="Syariahrooms" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   </a>
+</p>
+<p align="center">Hotel booking platform with Sharia-compliant features</p>
+<p align="center">
+  <a href="https://github.com/dennisricco/Syariahrooms">
+    <img src="https://img.shields.io/badge/View_Project-6AD3F7?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  </a>
+</p>
 </td>
 </tr>
 </table>
 
 <br/>
 
-### 🔥 More Projects
-<p>
-  <a href="https://github.com/dennisricco?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="View All Repos" />
-  </a>
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>🤖 YOLOv5 Detection</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000" />
 </p>
+<p>Custom object detection for jeep color classification with 10 classes</p>
+</td>
+<td width="33%" align="center">
+<h3>🎯 Detectron2 R-CNN</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Detectron2-6495ED?style=for-the-badge&logo=meta&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000" />
+</p>
+<p>Faster R-CNN implementation for multi-class object detection</p>
+</td>
+<td width="33%" align="center">
+<h3>🔍 RetinaNet Model</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Detectron2-6495ED?style=for-the-badge&logo=meta&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/COCO-FF6B6B?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+</p>
+<p>RetinaNet architecture trained with 15K iterations</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/dennisricco?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="View All Repos" />
+</a>
 
 </div>
 
