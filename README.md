@@ -197,21 +197,41 @@ skills = {
 
 <div align="center">
 
-<a href="https://github.com/dennisricco/my-portofolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dennisricco&repo=my-portofolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7" />
-</a>
-<a href="https://github.com/dennisricco/EmailCraft">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dennisricco&repo=EmailCraft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7" />
-</a>
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/dennisricco/my-portofolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennisricco&repo=my-portofolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7&cache_seconds=86400" alt="My Portfolio" />
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/dennisricco/EmailCraft">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennisricco&repo=EmailCraft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7&cache_seconds=86400" alt="EmailCraft" />
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/dennisricco/Laravel-Portofolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennisricco&repo=Laravel-Portofolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7&cache_seconds=86400" alt="Laravel Portfolio" />
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/dennisricco/Syariahrooms">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennisricco&repo=Syariahrooms&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7&cache_seconds=86400" alt="Syariahrooms" />
+  </a>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/dennisricco/Laravel-Portofolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dennisricco&repo=Laravel-Portofolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7" />
-</a>
-<a href="https://github.com/dennisricco/Syariahrooms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dennisricco&repo=Syariahrooms&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7" />
-</a>
+### 🔥 More Projects
+<p>
+  <a href="https://github.com/dennisricco?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="View All Repos" />
+  </a>
+</p>
 
 </div>
 
