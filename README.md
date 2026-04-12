@@ -324,7 +324,7 @@ skills = {
 <a href="https://github.com/dennisricco" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
 </a>
-<a href="https://my-portofolio-one-beta.vercel.app" target="_blank">
+<a href="https://dennis-portofolio-webdev.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" alt="Portfolio" />
 </a>
 <a href="mailto:dennisricco041@gmail.com" target="_blank">
